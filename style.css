@@ -6,4 +6,23 @@
 
 canvas {
   margin-top: 70px;
+  border-radius: 10px;
+  border: 50px salmon;
+  border-style:ridge;
+}
+
+#status {
+  font-family: 'Shrikhand', cursive;
+}
+
+#output {
+  font-family: 'Audiowide', cursive;
+  text-decoration:overline;
+  text-decoration-style: dotted;
+}
+
+.intro-body {
+  font-weight: bolder;
+  text-decoration: underline;
+  text-decoration-style:double;
 }
